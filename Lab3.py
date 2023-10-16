@@ -1,0 +1,25 @@
+number1=input('number1:')
+number2=input('number2:')
+number3=input('number3:')
+print(number1,number2)
+sum=int(number1)+int(number2)
+print(sum)
+difference=int(number1)-int(number2)
+print(difference)
+multiply=int(number1)*int(number2)
+print(multiply)
+division=int(number2)/int(number1)
+print(division)
+print(difference,division,multiply,sum)
+sum=int(number1)+int(number2)+int(number3)
+print(sum)
+difference=int(number1)-int(number2)-int(number3)
+print(difference)
+multiply=int(number1)*int(number2)*int(number3)
+print(multiply)
+division=int(number1)/int(number2)/int(number3)
+print(division)
+#Return the value of 9 raised to the power of 3
+#math library
+import math
+
